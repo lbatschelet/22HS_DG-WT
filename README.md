@@ -1,114 +1,122 @@
 1. [Wichtige Personen](#wichtige-personen)
-	1. [[Alexander von Humboldt](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-alexander-von-humboldt)](#alexander-von-humboldthttpscdnknightlabcomlibstimeline3latestembedindexhtmlsource1ff0rf1iwkimopr0-hhffdhntrwmrke93flhzku5otpqfontdefaultlangdehash_bookmarktrueinitial_zoom2height1000event-alexander-von-humboldt)
-	1. [[Carl Ritter](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-carl-ritter)](#carl-ritterhttpscdnknightlabcomlibstimeline3latestembedindexhtmlsource1ff0rf1iwkimopr0-hhffdhntrwmrke93flhzku5otpqfontdefaultlangdehash_bookmarktrueinitial_zoom2height1000event-carl-ritter)
-	1. [[Ferdinand von Richthofen](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-ferdinand-von-richthofen)](#ferdinand-von-richthofenhttpscdnknightlabcomlibstimeline3latestembedindexhtmlsource1ff0rf1iwkimopr0-hhffdhntrwmrke93flhzku5otpqfontdefaultlangdehash_bookmarktrueinitial_zoom2height1000event-ferdinand-von-richthofen)
-	1. [[Friedrich Ratzel](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-friedrich-ratzel)](#friedrich-ratzelhttpscdnknightlabcomlibstimeline3latestembedindexhtmlsource1ff0rf1iwkimopr0-hhffdhntrwmrke93flhzku5otpqfontdefaultlangdehash_bookmarktrueinitial_zoom2height1000event-friedrich-ratzel)
-	1. [[Paul Vidal de la Blache](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-paul-vidal-de-la-blache)](#paul-vidal-de-la-blachehttpscdnknightlabcomlibstimeline3latestembedindexhtmlsource1ff0rf1iwkimopr0-hhffdhntrwmrke93flhzku5otpqfontdefaultlangdehash_bookmarktrueinitial_zoom2height1000event-paul-vidal-de-la-blache)
-	1. [[Ferdinand de Saussure](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-ferdinand-de-saussures)](#ferdinand-de-saussurehttpscdnknightlabcomlibstimeline3latestembedindexhtmlsource1ff0rf1iwkimopr0-hhffdhntrwmrke93flhzku5otpqfontdefaultlangdehash_bookmarktrueinitial_zoom2height1000event-ferdinand-de-saussures)
-	1. [[Alfred Hettner](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-alfred-hettner)](#alfred-hettnerhttpscdnknightlabcomlibstimeline3latestembedindexhtmlsource1ff0rf1iwkimopr0-hhffdhntrwmrke93flhzku5otpqfontdefaultlangdehash_bookmarktrueinitial_zoom2height1000event-alfred-hettner)
-	1. [[Hans Spethmann](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-hans-spethmann)](#hans-spethmannhttpscdnknightlabcomlibstimeline3latestembedindexhtmlsource1ff0rf1iwkimopr0-hhffdhntrwmrke93flhzku5otpqfontdefaultlangdehash_bookmarktrueinitial_zoom2height1000event-hans-spethmann)
-	1. [[Carl Sauer](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-carl-sauer)](#carl-sauerhttpscdnknightlabcomlibstimeline3latestembedindexhtmlsource1ff0rf1iwkimopr0-hhffdhntrwmrke93flhzku5otpqfontdefaultlangdehash_bookmarktrueinitial_zoom2height1000event-carl-sauer)
-	1. [[Hans Bobek](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-hans-bobek)](#hans-bobekhttpscdnknightlabcomlibstimeline3latestembedindexhtmlsource1ff0rf1iwkimopr0-hhffdhntrwmrke93flhzku5otpqfontdefaultlangdehash_bookmarktrueinitial_zoom2height1000event-hans-bobek)
-	1. [[Jacqueline Beaujeu-Garnier](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-jacqueline-beaujeu-garnier)](#jacqueline-beaujeu-garnierhttpscdnknightlabcomlibstimeline3latestembedindexhtmlsource1ff0rf1iwkimopr0-hhffdhntrwmrke93flhzku5otpqfontdefaultlangdehash_bookmarktrueinitial_zoom2height1000event-jacqueline-beaujeu-garnier)
-	1. [[Edward Said](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-edward-said)](#edward-saidhttpscdnknightlabcomlibstimeline3latestembedindexhtmlsource1ff0rf1iwkimopr0-hhffdhntrwmrke93flhzku5otpqfontdefaultlangdehash_bookmarktrueinitial_zoom2height1000event-edward-said)
-	1. [[Anne Buttimer](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-anne-buttimer)](#anne-buttimerhttpscdnknightlabcomlibstimeline3latestembedindexhtmlsource1ff0rf1iwkimopr0-hhffdhntrwmrke93flhzku5otpqfontdefaultlangdehash_bookmarktrueinitial_zoom2height1000event-anne-buttimer)
-	1. [[Doreen Massey](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-doreen-massey)](#doreen-masseyhttpscdnknightlabcomlibstimeline3latestembedindexhtmlsource1ff0rf1iwkimopr0-hhffdhntrwmrke93flhzku5otpqfontdefaultlangdehash_bookmarktrueinitial_zoom2height1000event-doreen-massey)
-	1. [[Nigel Thrift](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-nigel-thrift)](#nigel-thrifthttpscdnknightlabcomlibstimeline3latestembedindexhtmlsource1ff0rf1iwkimopr0-hhffdhntrwmrke93flhzku5otpqfontdefaultlangdehash_bookmarktrueinitial_zoom2height1000event-nigel-thrift)
-1. [[Linda McDowell](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-linda-mcdowell)](#linda-mcdowellhttpscdnknightlabcomlibstimeline3latestembedindexhtmlsource1ff0rf1iwkimopr0-hhffdhntrwmrke93flhzku5otpqfontdefaultlangdehash_bookmarktrueinitial_zoom2height1000event-linda-mcdowell)
-	1. [[Derek Gregory](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-derek-gregory)](#derek-gregoryhttpscdnknightlabcomlibstimeline3latestembedindexhtmlsource1ff0rf1iwkimopr0-hhffdhntrwmrke93flhzku5otpqfontdefaultlangdehash_bookmarktrueinitial_zoom2height1000event-derek-gregory)
-	1. [[Benno Werlen](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-benno-werlen)](#benno-werlenhttpscdnknightlabcomlibstimeline3latestembedindexhtmlsource1ff0rf1iwkimopr0-hhffdhntrwmrke93flhzku5otpqfontdefaultlangdehash_bookmarktrueinitial_zoom2height1000event-benno-werlen)
-	1. [[Judith Butler](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-judith-butler)](#judith-butlerhttpscdnknightlabcomlibstimeline3latestembedindexhtmlsource1ff0rf1iwkimopr0-hhffdhntrwmrke93flhzku5otpqfontdefaultlangdehash_bookmarktrueinitial_zoom2height1000event-judith-butler)
-	1. [[Paul Reuber](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-paul-reuber)](#paul-reuberhttpscdnknightlabcomlibstimeline3latestembedindexhtmlsource1ff0rf1iwkimopr0-hhffdhntrwmrke93flhzku5otpqfontdefaultlangdehash_bookmarktrueinitial_zoom2height1000event-paul-reuber)
-	1. [[Julia Lossau](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-julia-lossau)](#julia-lossauhttpscdnknightlabcomlibstimeline3latestembedindexhtmlsource1ff0rf1iwkimopr0-hhffdhntrwmrke93flhzku5otpqfontdefaultlangdehash_bookmarktrueinitial_zoom2height1000event-julia-lossau)
+	1. [Alexander von Humboldt](#alexander-von-humboldt)
+	1. [Carl Ritter](#carl-ritter)
+	1. [Ferdinand von Richthofen](#ferdinand-von-richthofen)
+	1. [Friedrich Ratzel](#friedrich-ratzel)
+	1. [Paul Vidal de la Blache](#paul-vidal-de-la-blache)
+	1. [Ferdinand de Saussure](#ferdinand-de-saussure)
+	1. [Alfred Hettner](#alfred-hettner)
+	1. [Hans Spethmann](#hans-spethmann)
+	1. [Carl Sauer](#carl-sauer)
+	1. [Hans Bobek](#hans-bobek)
+	1. [Jacqueline Beaujeu-Garnier](#jacqueline-beaujeu-garnier)
+	1. [Edward Said](#edward-said)
+	1. [Anne Buttimer](#anne-buttimer)
+	1. [Doreen Massey](#doreen-massey)
+	1. [Nigel Thrift](#nigel-thrift)
+	1. [Linda McDowell](#linda-mcdowell)
+	1. [Derek Gregory](#derek-gregory)
+	1. [Benno Werlen](#benno-werlen)
+	1. [Judith Butler](#judith-butler)
+	1. [Paul Reuber](#paul-reuber)
+	1. [Julia Lossau](#julia-lossau)
 1. [Disziplinen](#disziplinen)
-	1. [[Länderkunde / Regionalgeographie](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-landerkunde-regionalgeographie)](#l%C3%A4nderkunde--regionalgeographiehttpscdnknightlabcomlibstimeline3latestembedindexhtmlsource1ff0rf1iwkimopr0-hhffdhntrwmrke93flhzku5otpqfontdefaultlangdehash_bookmarktrueinitial_zoom2height1000event-landerkunde-regionalgeographie)
-	1. [[Integrative Geographie](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-integrative-geographie)](#integrative-geographiehttpscdnknightlabcomlibstimeline3latestembedindexhtmlsource1ff0rf1iwkimopr0-hhffdhntrwmrke93flhzku5otpqfontdefaultlangdehash_bookmarktrueinitial_zoom2height1000event-integrative-geographie)
-	1. [[Historische Geographie](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-historische-geographie)](#historische-geographiehttpscdnknightlabcomlibstimeline3latestembedindexhtmlsource1ff0rf1iwkimopr0-hhffdhntrwmrke93flhzku5otpqfontdefaultlangdehash_bookmarktrueinitial_zoom2height1000event-historische-geographie)
-	1. [[Kulturlandschaftsforschung / Cultural Landscape (1925)](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-cultural-landscape-kulturlandschaftsforschung)](#kulturlandschaftsforschung--cultural-landscape-1925httpscdnknightlabcomlibstimeline3latestembedindexhtmlsource1ff0rf1iwkimopr0-hhffdhntrwmrke93flhzku5otpqfontdefaultlangdehash_bookmarktrueinitial_zoom2height1000event-cultural-landscape-kulturlandschaftsforschung)
-	1. [[Politische Geographie: Erste Phase (vor dem 1. Weltkrieg](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-politische-geographie-erste-phase-vor-dem-1-weltkrieg))](#politische-geographie-erste-phase-vor-dem-1-weltkrieghttpscdnknightlabcomlibstimeline3latestembedindexhtmlsource1ff0rf1iwkimopr0-hhffdhntrwmrke93flhzku5otpqfontdefaultlangdehash_bookmarktrueinitial_zoom2height1000event-politische-geographie-erste-phase-vor-dem-1-weltkrieg)
-	1. [[Geopolitik](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-geopolitik)](#geopolitikhttpscdnknightlabcomlibstimeline3latestembedindexhtmlsource1ff0rf1iwkimopr0-hhffdhntrwmrke93flhzku5otpqfontdefaultlangdehash_bookmarktrueinitial_zoom2height1000event-geopolitik)
-	1. [[Politische Geographie: Zweite Phase (Ab 1950)](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-politische-geographie-zweite-phase-nach-1950)](#politische-geographie-zweite-phase-ab-1950httpscdnknightlabcomlibstimeline3latestembedindexhtmlsource1ff0rf1iwkimopr0-hhffdhntrwmrke93flhzku5otpqfontdefaultlangdehash_bookmarktrueinitial_zoom2height1000event-politische-geographie-zweite-phase-nach-1950)
-	1. [[Politische Geographie: Dritte Phase (ab 1980er)](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-politische-geographie-dritte-phase-ab-1980er-jahren)](#politische-geographie-dritte-phase-ab-1980erhttpscdnknightlabcomlibstimeline3latestembedindexhtmlsource1ff0rf1iwkimopr0-hhffdhntrwmrke93flhzku5otpqfontdefaultlangdehash_bookmarktrueinitial_zoom2height1000event-politische-geographie-dritte-phase-ab-1980er-jahren)
-	1. [[Postkoloniale Geographie](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-postkoloniale-geographie)](#postkoloniale-geographiehttpscdnknightlabcomlibstimeline3latestembedindexhtmlsource1ff0rf1iwkimopr0-hhffdhntrwmrke93flhzku5otpqfontdefaultlangdehash_bookmarktrueinitial_zoom2height1000event-postkoloniale-geographie)
-	1. [[Imaginäre / Imaginative Geographien](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-imaginare-imaginative-geographien)](#imagin%C3%A4re--imaginative-geographienhttpscdnknightlabcomlibstimeline3latestembedindexhtmlsource1ff0rf1iwkimopr0-hhffdhntrwmrke93flhzku5otpqfontdefaultlangdehash_bookmarktrueinitial_zoom2height1000event-imaginare-imaginative-geographien)
-	1. [[Sozialgeographie](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-sozialgeographie)](#sozialgeographiehttpscdnknightlabcomlibstimeline3latestembedindexhtmlsource1ff0rf1iwkimopr0-hhffdhntrwmrke93flhzku5otpqfontdefaultlangdehash_bookmarktrueinitial_zoom2height1000event-sozialgeographie)
-	1. [[Humanistic Geography / Wahrnehmungsgeographie](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-humanistic-geography-wahrnehmungsgeographie)](#humanistic-geography--wahrnehmungsgeographiehttpscdnknightlabcomlibstimeline3latestembedindexhtmlsource1ff0rf1iwkimopr0-hhffdhntrwmrke93flhzku5otpqfontdefaultlangdehash_bookmarktrueinitial_zoom2height1000event-humanistic-geography-wahrnehmungsgeographie)
-	1. [[Neue Kulturgeographie](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-neue-kulturgeographie)](#neue-kulturgeographiehttpscdnknightlabcomlibstimeline3latestembedindexhtmlsource1ff0rf1iwkimopr0-hhffdhntrwmrke93flhzku5otpqfontdefaultlangdehash_bookmarktrueinitial_zoom2height1000event-neue-kulturgeographie)
-	1. [[Feministische Geographie](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-feministische-geographie)](#feministische-geographiehttpscdnknightlabcomlibstimeline3latestembedindexhtmlsource1ff0rf1iwkimopr0-hhffdhntrwmrke93flhzku5otpqfontdefaultlangdehash_bookmarktrueinitial_zoom2height1000event-feministische-geographie)
-	1. [[Dynamische Länderkunde](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-dynamische-landerkunde)](#dynamische-l%C3%A4nderkundehttpscdnknightlabcomlibstimeline3latestembedindexhtmlsource1ff0rf1iwkimopr0-hhffdhntrwmrke93flhzku5otpqfontdefaultlangdehash_bookmarktrueinitial_zoom2height1000event-dynamische-landerkunde)
-	1. [[Raumstrukturforschung / Spatial Analysis](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-raumstrukturforschung-spatial-analysis)](#raumstrukturforschung--spatial-analysishttpscdnknightlabcomlibstimeline3latestembedindexhtmlsource1ff0rf1iwkimopr0-hhffdhntrwmrke93flhzku5otpqfontdefaultlangdehash_bookmarktrueinitial_zoom2height1000event-raumstrukturforschung-spatial-analysis)
-	1. [[Neue Regionalgeographie / Locality Studies](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-neue-regionalgeographie-locality-studies)](#neue-regionalgeographie--locality-studieshttpscdnknightlabcomlibstimeline3latestembedindexhtmlsource1ff0rf1iwkimopr0-hhffdhntrwmrke93flhzku5otpqfontdefaultlangdehash_bookmarktrueinitial_zoom2height1000event-neue-regionalgeographie-locality-studies)
+	1. [Länderkunde / Regionalgeographie](#l%C3%A4nderkunde--regionalgeographie)
+	1. [Integrative Geographie](#integrative-geographie)
+	1. [Historische Geographie](#historische-geographie)
+	1. [Kulturlandschaftsforschung / Cultural Landscape (1925)](#kulturlandschaftsforschung--cultural-landscape-1925)
+	1. [Politische Geographie: Erste Phase (vor dem 1. Weltkrieg)](#politische-geographie-erste-phase-vor-dem-1-weltkrieg)
+	1. [Geopolitik](#geopolitik)
+	1. [Politische Geographie: Zweite Phase (Ab 1950)](#politische-geographie-zweite-phase-ab-1950)
+	1. [Politische Geographie: Dritte Phase (ab 1980er)](#politische-geographie-dritte-phase-ab-1980er)
+	1. [Postkoloniale Geographie](#postkoloniale-geographie)
+	1. [Imaginäre / Imaginative Geographien](#imagin%C3%A4re--imaginative-geographien)
+	1. [Sozialgeographie](#sozialgeographie)
+	1. [Humanistic Geography / Wahrnehmungsgeographie](#humanistic-geography--wahrnehmungsgeographie)
+	1. [Neue Kulturgeographie](#neue-kulturgeographie)
+	1. [Feministische Geographie](#feministische-geographie)
+	1. [Dynamische Länderkunde](#dynamische-l%C3%A4nderkunde)
+	1. [Raumstrukturforschung / Spatial Analysis](#raumstrukturforschung--spatial-analysis)
+	1. [Neue Regionalgeographie / Locality Studies](#neue-regionalgeographie--locality-studies)
 1. [Konzepte](#konzepte)
-	1. [[Kausalforschung](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-kausalforschung)](#kausalforschunghttpscdnknightlabcomlibstimeline3latestembedindexhtmlsource1ff0rf1iwkimopr0-hhffdhntrwmrke93flhzku5otpqfontdefaultlangdehash_bookmarktrueinitial_zoom2height1000event-kausalforschung)
-	1. [[Possibilismus (Ende 19. – Anfang 20. Jhd.)](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-possibilismus)](#possibilismus-ende-19--anfang-20-jhdhttpscdnknightlabcomlibstimeline3latestembedindexhtmlsource1ff0rf1iwkimopr0-hhffdhntrwmrke93flhzku5otpqfontdefaultlangdehash_bookmarktrueinitial_zoom2height1000event-possibilismus)
-	1. [[Geographie-Machen](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-geographie-machen)](#geographie-machenhttpscdnknightlabcomlibstimeline3latestembedindexhtmlsource1ff0rf1iwkimopr0-hhffdhntrwmrke93flhzku5otpqfontdefaultlangdehash_bookmarktrueinitial_zoom2height1000event-geographie-machen)
-	1. [[Orientalismus](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-orientalismus)](#orientalismushttpscdnknightlabcomlibstimeline3latestembedindexhtmlsource1ff0rf1iwkimopr0-hhffdhntrwmrke93flhzku5otpqfontdefaultlangdehash_bookmarktrueinitial_zoom2height1000event-orientalismus)
-	1. [[Cultural Studies](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-cultural-studies)](#cultural-studieshttpscdnknightlabcomlibstimeline3latestembedindexhtmlsource1ff0rf1iwkimopr0-hhffdhntrwmrke93flhzku5otpqfontdefaultlangdehash_bookmarktrueinitial_zoom2height1000event-cultural-studies)
-	1. [[Feministische Theorie](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-feministische-theorie)](#feministische-theoriehttpscdnknightlabcomlibstimeline3latestembedindexhtmlsource1ff0rf1iwkimopr0-hhffdhntrwmrke93flhzku5otpqfontdefaultlangdehash_bookmarktrueinitial_zoom2height1000event-feministische-theorie)
+	1. [Kausalforschung](#kausalforschung)
+	1. [Possibilismus (Ende 19. – Anfang 20. Jhd.)](#possibilismus-ende-19--anfang-20-jhd)
+	1. [Geographie-Machen](#geographie-machen)
+	1. [Orientalismus](#orientalismus)
+	1. [Cultural Studies](#cultural-studies)
+	1. [Feministische Theorie](#feministische-theorie)
 1. [Wandel](#wandel)
-	1. [[Cultural Turn](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-cultural-turn)](#cultural-turnhttpscdnknightlabcomlibstimeline3latestembedindexhtmlsource1ff0rf1iwkimopr0-hhffdhntrwmrke93flhzku5otpqfontdefaultlangdehash_bookmarktrueinitial_zoom2height1000event-cultural-turn)
-	1. [[Linguistic Turn](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-linguisitc-turn)](#linguistic-turnhttpscdnknightlabcomlibstimeline3latestembedindexhtmlsource1ff0rf1iwkimopr0-hhffdhntrwmrke93flhzku5otpqfontdefaultlangdehash_bookmarktrueinitial_zoom2height1000event-linguisitc-turn)
-	1. [[Performative Turn](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-performative-turn)](#performative-turnhttpscdnknightlabcomlibstimeline3latestembedindexhtmlsource1ff0rf1iwkimopr0-hhffdhntrwmrke93flhzku5otpqfontdefaultlangdehash_bookmarktrueinitial_zoom2height1000event-performative-turn)
-	1. [[Postcolonial Turn](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-postcolonial-turn)](#postcolonial-turnhttpscdnknightlabcomlibstimeline3latestembedindexhtmlsource1ff0rf1iwkimopr0-hhffdhntrwmrke93flhzku5otpqfontdefaultlangdehash_bookmarktrueinitial_zoom2height1000event-postcolonial-turn)
-	1. [[Spatial Turn](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-spatial-turn)](#spatial-turnhttpscdnknightlabcomlibstimeline3latestembedindexhtmlsource1ff0rf1iwkimopr0-hhffdhntrwmrke93flhzku5otpqfontdefaultlangdehash_bookmarktrueinitial_zoom2height1000event-spatial-turn)
-	1. [[Gender Turn](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-gender-turn)](#gender-turnhttpscdnknightlabcomlibstimeline3latestembedindexhtmlsource1ff0rf1iwkimopr0-hhffdhntrwmrke93flhzku5otpqfontdefaultlangdehash_bookmarktrueinitial_zoom2height1000event-gender-turn)
-	1. [[Material Turn](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-material-turn)](#material-turnhttpscdnknightlabcomlibstimeline3latestembedindexhtmlsource1ff0rf1iwkimopr0-hhffdhntrwmrke93flhzku5otpqfontdefaultlangdehash_bookmarktrueinitial_zoom2height1000event-material-turn)
-	1. [[Spaltung der Geografie / Kieler Geographentag (1969)](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-spaltung-der-geografie-kieler-geographentag)](#spaltung-der-geografie--kieler-geographentag-1969httpscdnknightlabcomlibstimeline3latestembedindexhtmlsource1ff0rf1iwkimopr0-hhffdhntrwmrke93flhzku5otpqfontdefaultlangdehash_bookmarktrueinitial_zoom2height1000event-spaltung-der-geografie-kieler-geographentag)
-	1. [[Quantitative Revolution](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-quantitative-revolution)](#quantitative-revolutionhttpscdnknightlabcomlibstimeline3latestembedindexhtmlsource1ff0rf1iwkimopr0-hhffdhntrwmrke93flhzku5otpqfontdefaultlangdehash_bookmarktrueinitial_zoom2height1000event-quantitative-revolution)
+	1. [Cultural Turn](#cultural-turn)
+	1. [Linguistic Turn](#linguistic-turn)
+	1. [Performative Turn](#performative-turn)
+	1. [Postcolonial Turn](#postcolonial-turn)
+	1. [Spatial Turn](#spatial-turn)
+	1. [Gender Turn](#gender-turn)
+	1. [Material Turn](#material-turn)
+	1. [Spaltung der Geografie / Kieler Geographentag (1969)](#spaltung-der-geografie--kieler-geographentag-1969)
+	1. [Quantitative Revolution](#quantitative-revolution)
 1. [Erkenntnistheorien](#erkenntnistheorien)
-	1. [[Realismus](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-realismus) (20. Jhd.)](#realismushttpscdnknightlabcomlibstimeline3latestembedindexhtmlsource1ff0rf1iwkimopr0-hhffdhntrwmrke93flhzku5otpqfontdefaultlangdehash_bookmarktrueinitial_zoom2height1000event-realismus-20-jhd)
-	1. [[Rationalismus](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-rationalismus) (Anfang 17. Jhd.)](#rationalismushttpscdnknightlabcomlibstimeline3latestembedindexhtmlsource1ff0rf1iwkimopr0-hhffdhntrwmrke93flhzku5otpqfontdefaultlangdehash_bookmarktrueinitial_zoom2height1000event-rationalismus-anfang-17-jhd)
-	1. [[Idealismus](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-idealismus) (Anfang 17. Jhd.)](#idealismushttpscdnknightlabcomlibstimeline3latestembedindexhtmlsource1ff0rf1iwkimopr0-hhffdhntrwmrke93flhzku5otpqfontdefaultlangdehash_bookmarktrueinitial_zoom2height1000event-idealismus-anfang-17-jhd)
-	1. [[Empirismus](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-empirismus) (Mitte 17. Jhd.)](#empirismushttpscdnknightlabcomlibstimeline3latestembedindexhtmlsource1ff0rf1iwkimopr0-hhffdhntrwmrke93flhzku5otpqfontdefaultlangdehash_bookmarktrueinitial_zoom2height1000event-empirismus-mitte-17-jhd)
-	1. [[Transzendentalphilosophie](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-transzendentalphilosophie) (Ende 18. Jhd.)](#transzendentalphilosophiehttpscdnknightlabcomlibstimeline3latestembedindexhtmlsource1ff0rf1iwkimopr0-hhffdhntrwmrke93flhzku5otpqfontdefaultlangdehash_bookmarktrueinitial_zoom2height1000event-transzendentalphilosophie-ende-18-jhd)
-	1. [[Kritischer Rationalismus](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-kritischer-rationalismus) (1930er Jahre)](#kritischer-rationalismushttpscdnknightlabcomlibstimeline3latestembedindexhtmlsource1ff0rf1iwkimopr0-hhffdhntrwmrke93flhzku5otpqfontdefaultlangdehash_bookmarktrueinitial_zoom2height1000event-kritischer-rationalismus-1930er-jahre)
-	1. [[Positivismus](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-positivismus) (Ende 19. Jhd.)](#positivismushttpscdnknightlabcomlibstimeline3latestembedindexhtmlsource1ff0rf1iwkimopr0-hhffdhntrwmrke93flhzku5otpqfontdefaultlangdehash_bookmarktrueinitial_zoom2height1000event-positivismus-ende-19-jhd)
-	1. [[Handlungstheorie](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-handlungstheorie)n (1980er)](#handlungstheoriehttpscdnknightlabcomlibstimeline3latestembedindexhtmlsource1ff0rf1iwkimopr0-hhffdhntrwmrke93flhzku5otpqfontdefaultlangdehash_bookmarktrueinitial_zoom2height1000event-handlungstheorien-1980er)
-	1. [[Strukturalismus](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-strukturalismus) (Anfang 20. Jhd., Hochphase 1960er-Jahre)](#strukturalismushttpscdnknightlabcomlibstimeline3latestembedindexhtmlsource1ff0rf1iwkimopr0-hhffdhntrwmrke93flhzku5otpqfontdefaultlangdehash_bookmarktrueinitial_zoom2height1000event-strukturalismus-anfang-20-jhd-hochphase-1960er-jahre)
-	1. [[Poststrukturalismus](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-poststrukturalismus) (Ende 1960er-Jahre)](#poststrukturalismushttpscdnknightlabcomlibstimeline3latestembedindexhtmlsource1ff0rf1iwkimopr0-hhffdhntrwmrke93flhzku5otpqfontdefaultlangdehash_bookmarktrueinitial_zoom2height1000event-poststrukturalismus-ende-1960er-jahre)
-	1. [[Konstruktivismus](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-konstruktivismus) (1960er)](#konstruktivismushttpscdnknightlabcomlibstimeline3latestembedindexhtmlsource1ff0rf1iwkimopr0-hhffdhntrwmrke93flhzku5otpqfontdefaultlangdehash_bookmarktrueinitial_zoom2height1000event-konstruktivismus-1960er)
-	1. [[Systemtheorie](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-systemtheorie) (Mitte 20. Jhd.)](#systemtheoriehttpscdnknightlabcomlibstimeline3latestembedindexhtmlsource1ff0rf1iwkimopr0-hhffdhntrwmrke93flhzku5otpqfontdefaultlangdehash_bookmarktrueinitial_zoom2height1000event-systemtheorie-mitte-20-jhd)
+	1. [Realismus (20. Jhd.)](#realismus-20-jhd)
+	1. [Rationalismus (Anfang 17. Jhd.)](#rationalismus-anfang-17-jhd)
+	1. [Idealismus (Anfang 17. Jhd.)](#idealismus-anfang-17-jhd)
+	1. [Empirismus (Mitte 17. Jhd.)](#empirismus-mitte-17-jhd)
+	1. [Transzendentalphilosophie (Ende 18. Jhd.)](#transzendentalphilosophie-ende-18-jhd)
+	1. [Kritischer Rationalismus (1930er Jahre)](#kritischer-rationalismus-1930er-jahre)
+	1. [Positivismus (Ende 19. Jhd.)](#positivismus-ende-19-jhd)
+	1. [Handlungstheorien (1980er)](#handlungstheorien-1980er)
+	1. [Strukturalismus (Anfang 20. Jhd., Hochphase 1960er-Jahre)](#strukturalismus-anfang-20-jhd-hochphase-1960er-jahre)
+	1. [Poststrukturalismus (Ende 1960er-Jahre)](#poststrukturalismus-ende-1960er-jahre)
+	1. [Konstruktivismus (1960er-Jahre)](#konstruktivismus-1960er-jahre)
+	1. [Systemtheorie (Mitte 20. Jhd.)](#systemtheorie-mitte-20-jhd)
 1. [Paradigmenwechsel](#paradigmenwechsel)
-	1. [[Von Beschreiben zu Erklären (Säkularisierung)](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-von-beschreiben-zu-erklaren)](#von-beschreiben-zu-erkl%C3%A4ren-s%C3%A4kularisierunghttpscdnknightlabcomlibstimeline3latestembedindexhtmlsource1ff0rf1iwkimopr0-hhffdhntrwmrke93flhzku5otpqfontdefaultlangdehash_bookmarktrueinitial_zoom2height1000event-von-beschreiben-zu-erklaren)
-	1. [[Von Erklären zu Verstehen](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-von-erklaren-zu-verstehen)](#von-erkl%C3%A4ren-zu-verstehenhttpscdnknightlabcomlibstimeline3latestembedindexhtmlsource1ff0rf1iwkimopr0-hhffdhntrwmrke93flhzku5otpqfontdefaultlangdehash_bookmarktrueinitial_zoom2height1000event-von-erklaren-zu-verstehen)
-	1. [[Von Verstehen zu Rekonstruieren](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-von-verstehen-zu-rekonstruieren)](#von-verstehen-zu-rekonstruierenhttpscdnknightlabcomlibstimeline3latestembedindexhtmlsource1ff0rf1iwkimopr0-hhffdhntrwmrke93flhzku5otpqfontdefaultlangdehash_bookmarktrueinitial_zoom2height1000event-von-verstehen-zu-rekonstruieren)
+	1. [Von Beschreiben zu Erklären (Säkularisierung)](#von-beschreiben-zu-erkl%C3%A4ren-s%C3%A4kularisierung)
+	1. [Von Erklären zu Verstehen](#von-erkl%C3%A4ren-zu-verstehen)
+	1. [Von Verstehen zu Rekonstruieren](#von-verstehen-zu-rekonstruieren)
+
 
 ## Wichtige Personen
-### [Alexander von Humboldt](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-alexander-von-humboldt)
+### Alexander von Humboldt
+[📅](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-alexander-von-humboldt)
 *1769 – 1859*
 Alexander von Humboldt war ein deutscher Forschungsreisender mit einem weit über Europa hinausreichenden Wirkungsfeld. In seinem über einen Zeitraum von mehr als sieben Jahrzehnten entstandenen Gesamtwerk schuf er „einen neuen Wissens- und Reflexionsstand des Wissens von der Welt“ und wurde neben [Carl Ritter](#carl-ritter) zum Mitbegründer der Geographie als empirischer Wissenschaft.
 - Empirie: methodisch-systematische Sammlung von Daten; Entstehung einer wissenschaftlichen Geographie
-### [Carl Ritter](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-carl-ritter)
+### Carl Ritter
+[📅](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-carl-ritter)
 *1779 – 1859*
 Gilt neben [Alexander von Humboldt](#alexander-von-humboldt) als Mitbegründer der Geographie als empirische Wissenschaft.
 - Afrikaforschung, 1820 Lehrstuhl für Geographie in Deutschland
 - Vertreter eines teleologischen Weltbildes
-### [Ferdinand von Richthofen](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-ferdinand-von-richthofen)
+### Ferdinand von Richthofen
+[📅](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-ferdinand-von-richthofen)
 *1833 – 1905*
 Ferdinand von Richthofen war ein bedeutender deutscher Geograph, Kartograph und Forschungsreisender aus dem Adelsgeschlecht der Richthofen. Er gilt als Begründer der modernen **Geomorphologie** und prägte in seinen Studien über das Kaiserreich China den Begriff „Seidenstraße“.
 - Schüler von [Ritter](#carl-ritter)
 - Lehrer [Hettners](#alfred-hettner)
 - Verfechter der [Kausalforschung](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-kausalforschung)
 - Vertreter der [Länderkunde / Regionalgeographie](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-landerkunde-regionalgeographie)
-### [Friedrich Ratzel](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-friedrich-ratzel)
+### Friedrich Ratzel
+[📅](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-friedrich-ratzel)
 *1844 – 1909*
 - Begründer der [politischen Geographie](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-politische-geographie-erste-phase-vor-dem-1-weltkrieg), welche zur [Geopolitik](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-geopolitik) führte
 - Ziele der Geographie: Raum als Anleitung der Politik
 - Sein Werk ist geprägt durch impliziten **Sozialdarwinismus** und expliziten **Naturdeterminismus**. Ihm wird deshalb eine Nähe zum Nationalsozialismus vorgeworfen.
 - Verfasser von sieben Gesetzen, die das räumliche Wachstum eines Staates erklären sollten.
 - Analogie Staat und lebender Organismus ermöglichte letztlich die Legitimation von Raumnahme aufgrund des Wachstums.
-### [Paul Vidal de la Blache](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-paul-vidal-de-la-blache)
+### Paul Vidal de la Blache
+[📅](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-paul-vidal-de-la-blache)
 *1845 – 1918*
 - [Possibilismus](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-possibilismus) (prägendes Paradigma der französischen Geographie 1890 - 1920)
 - Begründer der französischen Humangeographie
 - Vorreiter der modernen [Sozialgeographie](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-sozialgeographie)
-### [Ferdinand de Saussure](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-ferdinand-de-saussures)
+### Ferdinand de Saussure
+[📅](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-ferdinand-de-saussures)
 *1857 – 1913*
 - Schweizer Sprachwissenschaftler
 - Sprache als System
 - Zeichen (Signifikant & Signifikat)
 - Prägte sprachwissenschaftlichen [Strukturalismus](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-strukturalismus) nachhaltig → Wegbereiter des [Linguistic Turn](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-linguisitc-turn)
-### [Alfred Hettner](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-alfred-hettner)
+### Alfred Hettner
+[📅](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-alfred-hettner)
 *1859 – 1941*
 Alfred Hettner war ein deutscher Geograph und Professor an den Universitäten Tübingen und Heidelberg. Hettner gilt als Begründer einer **chorologisch** (= raumbezogen)-regional-geographischen Tradition. Hettners regionales Interesse, welches viele seiner Schüler teilten, galt besonders Südamerika und Ostasien. Zudem war er langjähriger Sektionsführer der Deutschen Kolonialgesellschaft (DKG).
 - Einbezug der Naturwissenschaft – Geographie als [Kausalforschung](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-kausalforschung)
@@ -116,25 +124,29 @@ Alfred Hettner war ein deutscher Geograph und Professor an den Universitäten T�
 - Stärkung der Geographie als wissenschaftliche Disziplin an Universitäten (Beschreiben und Erklären)
 - Begründer der [Länderkunde](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-landerkunde-regionalgeographie)
 - Schüler von [Ferdinand von Richthofen](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-ferdinand-von-richthofen)
-- Wollte sich von der klassischen Geographie [Humboldts](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-alexander-von-humboldt) trennen
-### [Hans Spethmann](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-hans-spethmann)
+- Wollte sich von der klassischen Geographie [Humboldts](#alexander-von-humboldt) trennen
+### Hans Spethmann
+[📅](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-hans-spethmann)
 *1885 – 1957*
 - Sah Mängel der [Länderkunde](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-landerkunde-regionalgeographie) vorwiegend in deren statischer Erhebung länderkundlicher Tatsachen.
 - Begründer der [dynamischen Länderkunde](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-dynamische-landerkunde)
-### [Carl Sauer](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-carl-sauer)
+### Carl Sauer
+[📅](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-carl-sauer)
 *1889 – 1975*
 - Menschen gestalten die Welt
 - [Cultural Landscapes](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-cultural-landscape-kulturlandschaftsforschung) – prägendes Paradigma der US-amerikanischen Geographie
 - «Kultur determiniert Natur.»
 - Ziele: räumliche Auswirkung von Kulturen auf die Kulturlandschaft, regionale Begrenzung von Kulturen, Kultur-Natur-Verhältnisse im Rahmen einer Kulturökologie
-### [Hans Bobek](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-hans-bobek)
+### Hans Bobek
+[📅](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-hans-bobek)
 *1903 – 1990*
 - Stellung und Bedeutung der [**Sozialgeographie**](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-sozialgeographie) (1947)
 - Erster, der den Begriff «[**Sozialgeographie**](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-sozialgeographie)» verwendete
 - Erklärte die Natur mit Rückgriff auf den Menschen und sieht die Menschen als aktive Wesen mit freiem Willen
 - Betreibt “sozialgeographische Landschaftsforschung”
 - Kritisierte Geodeterminismus
-### [Jacqueline Beaujeu-Garnier](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-jacqueline-beaujeu-garnier)
+### Jacqueline Beaujeu-Garnier
+[📅](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-jacqueline-beaujeu-garnier)
 *1917 – 1995*
 - Vertreterin der [dynamischen Länderkunde](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-dynamische-landerkunde)
 - Erste Frau Frankreichs mit Doktortitel in Geographie
@@ -142,56 +154,66 @@ Alfred Hettner war ein deutscher Geograph und Professor an den Universitäten T�
 	- Bsp.: Bevölkerungsanstieg / Desertifkationsprozesse, Handelsstrukturen / Innenstadtentwicklungen, Urbanisierungsprozesse
 - Ursprünglich physisch-geographisch ausgebildet
 - Forschungsinteressen in der Regionalplanung unter Beachtung lokaler, regionaler, nationaler und nicht zuletzt globaler demographischer und ökonomischer Veränderungen
-### [Edward Said](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-edward-said)
+### Edward Said
+[📅](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-edward-said)
 *1935 – 2003*
 Edward William Said, war ein US-amerikanischer Literaturtheoretiker und -kritiker palästinensischer Herkunft. Sein im Jahr 1978 erschienenes Buch Orientalismus zählt gemeinhin zu den einflussreichsten und meist rezipierten Sachbüchern der neueren Wissenschaftsgeschichte. Er galt als Fürsprecher der Palästinenser in den USA.
 - [Orientalismus](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-orientalismus)
 - [Imaginative Geographien](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-imaginare-imaginative-geographien)
 - Othering
 - [Postkoloniale Geographie](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-postkoloniale-geographie)
-### [Anne Buttimer](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-anne-buttimer)
+### Anne Buttimer
+[📅](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-anne-buttimer)
 *1938 – 2017*
 - [Humanistic Geography](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-humanistic-geography-wahrnehmungsgeographie) – Verhältnis von Menschen, Natur, Raum & Zeit und den Perspektiven und Gefühlen, die der Mensch zur Umwelt hat
-### [Doreen Massey](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-doreen-massey)
+### Doreen Massey
+[📅](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-doreen-massey)
 *1944 – 2016*
 - Marxistische Geographie → [Radical Geography](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-politische-geographie-dritte-phase-ab-1980er-jahren)
 - [Feministische Geographie](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-feministische-geographie)
 - [Neue Kulturgeographie](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-neue-kulturgeographie)
 - Border Studies
-### [Nigel Thrift](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-nigel-thrift)
+### Nigel Thrift
+[📅](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-nigel-thrift)
 *1949*
 - Theorie des Posthumanismus
 - [Locality Studies](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-neue-regionalgeographie-locality-studies)
 - [Material Turn](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-material-turn)
-## [Linda McDowell](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-linda-mcdowell)
+### Linda McDowell
+[📅](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-linda-mcdowell)
 *1949*
 - [Neue Kulturgeographie](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-neue-kulturgeographie)
 - [Feministische Geographie](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-feministische-geographie)
-### [Derek Gregory](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-derek-gregory)
+### Derek Gregory
+[📅](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-derek-gregory)
 *1951*
 - [Imaginative Geographie / Imaginäre Geographien](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-imaginare-imaginative-geographien)
 - [Neue Regionalgeographie](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-neue-regionalgeographie-locality-studies)
-### [Benno Werlen](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-benno-werlen)
+### Benno Werlen
+[📅](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-benno-werlen)
 *1952*
 - Schweizer [Sozialgeograph](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-sozialgeographie)
 - Konzept: [**Geographie-Machen**](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-geographie-machen)
 - Meint Humangeographie soll Handlung betrachten und nicht den Raum - Welt soll aus Sicht des Handelnden erforscht werden
 - fordert die Abwendung von einer „[handlungsorientierten](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-handlungstheorie) Raumwissenschaft“ und das Betreiben einer „raumorientierten [Handlungswissenschaft.](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-handlungstheorie)“
 - Intersubjektivität: Geht davon aus, dass es keine objektive Erkenntnis gibt, nur mehrere Subjekte können zur selben Meinung kommen
-### [Judith Butler](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-judith-butler)
+### Judith Butler
+[📅](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-judith-butler)
 *1956*
 - Philosophin
 - Vertreterin der [feministischen Theorie](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-feministische-theorie) (_Gender Trouble: Feminism and the Subversion of Identity_, 1990)
 - [Poststrukturalismus](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-poststrukturalismus)
 - Queer-Theorie: geschlechtliche und sexuelle Identität durch Handlungen erzeugt
-### [Paul Reuber](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-paul-reuber)
+### Paul Reuber
+[📅](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-paul-reuber)
 *1958*
 - Kategorisiert die Bemühungen der [politischen Geographie](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-politische-geographie-dritte-phase-ab-1980er-jahren) in vier theoretische Kategorien:
 	- Geografische Konfliktforschung
 	- Kritische Geographie
 	- Critical Geopolitics
 	- Diskurstheoretische Ansätze
-### [Julia Lossau](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-julia-lossau)
+### Julia Lossau
+[📅](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-julia-lossau)
 *1971*
 - Humangeographin
 - [Postkoloniale Geographie](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-postkoloniale-geographie)
@@ -199,7 +221,8 @@ Edward William Said, war ein US-amerikanischer Literaturtheoretiker und -kritike
 Lossau ging es dabei um eine ANDERE Geographie, die ein partikularistisches Weltbild kultureller Gegensätze wahrnimmt und damit gleichzeitig aktiv entwirft. So wendete sie sich gegen universalistische Ansätze in der Geographie, die die Welt als Ganzes erklären wollen und demzufolge Gegensätzliches zwingend unterwerfen müssen.
 ## Disziplinen
 
-### [Länderkunde / Regionalgeographie](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-landerkunde-regionalgeographie)
+### Länderkunde / Regionalgeographie
+[📅](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-landerkunde-regionalgeographie)
 - **Wer:**
 	- [Alfred Hettner](#alfred-hettner) (1859–1941)
 	- [Ferdinand von Richthofen](#ferdinand-von-richthofen) (1833–1905)
@@ -220,7 +243,8 @@ Lossau ging es dabei um eine ANDERE Geographie, die ein partikularistisches Welt
 	- Idiographisches Forschen bildet die geographische Praxis -Nomothetisches Forschen wurde angestrebt.
 		- **Idiographisch** (beschreibend, Geographie des Besonderen): Das Besondere einer Region untersuchen (Bsp. Wie sind Schweizer Alpen entstanden)
 		- **Nomothetisch** Suche und Formulieren **allgemeingültiger Gesetze** (Bsp. Wie sind Berge entstanden?) → [Kausalforschung](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-kausalforschung)
-### [Integrative Geographie](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-integrative-geographie)
+### Integrative Geographie
+[📅](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-integrative-geographie)
 - **Wer:**
 	- Harlan H. Barrows (1923)
 - **Wann:**
@@ -234,7 +258,8 @@ Lossau ging es dabei um eine ANDERE Geographie, die ein partikularistisches Welt
 	- [**Possibilismus**](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-possibilismus) ([Paul Vidal de la Blache](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-paul-vidal-de-la-blanche), Wende 19. & 20. Jhd.)
 	- [**Historische Geographie**](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-historische-geographie) (Helmut Jäger, 1969)
 	- **Humanökologie**: Mensch und Natur bedienen sich gegenseitig (Robert E. Park, 1915)
-### [Historische Geographie](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-historische-geographie)
+### Historische Geographie
+[📅](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-historische-geographie)
 - **Wer:**
 	- Helmut Jäger (1923 – 2017, 1969)
 - **Wann:**
@@ -248,7 +273,8 @@ Lossau ging es dabei um eine ANDERE Geographie, die ein partikularistisches Welt
 	- Landschaft ist immer schon Kulturlandschaft
 		- Im Gegensatz zu [Ratzels](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-friedrich-ratzel) unveränderter Naturlandschaft
 	- Natürliche Phänomene sind erklärbar, menschliche müssen kontextbezogen verstanden werden → Fortführung der historischen Geographie nach dem [Paradigmenwechsel rund um den Kieler Geographentag](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-von-erklaren-zu-verstehen)
-### [Kulturlandschaftsforschung / Cultural Landscape (1925)](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-cultural-landscape-kulturlandschaftsforschung)
+### Kulturlandschaftsforschung / Cultural Landscape (1925)
+[📅](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-cultural-landscape-kulturlandschaftsforschung)
 - **Wer:**
 	- [Carl Sauer](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-carl-sauer) (1889–1975)
 - **Wann:**
@@ -269,7 +295,8 @@ Die von [Carl Sauer](https://cdn.knightlab.com/libs/timeline3/latest/embed/index
 Diese Ziele wiesen folgende **Probleme** auf, welche im Verlauf der zweiten Hälfte des 20. Jhd. zu einer [neuen Kulturgeographie](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-neue-kulturgeographie) führten.
 - Kulturelle Artefakte in regional abgrenzbaren Regionen auffindbar → direkte Folgen dieser Region verbreiteten Kultur
 - Analytisch nicht nah im deutschsprachigen Raum, da diese durch soziale Ungleichheiten geprägt sind
-### [Politische Geographie: Erste Phase (vor dem 1. Weltkrieg](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-politische-geographie-erste-phase-vor-dem-1-weltkrieg))
+### Politische Geographie: Erste Phase (vor dem 1. Weltkrieg)
+[📅](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-politische-geographie-erste-phase-vor-dem-1-weltkrieg))
 - **Wer:**
 	- [Friedrich Ratzel](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-friedrich-ratzel) (1844 – 1909)
 - **Wann:**
@@ -284,7 +311,8 @@ Diese Ziele wiesen folgende **Probleme** auf, welche im Verlauf der zweiten Häl
 	- Kritik: Geodeterministisch, da die sozialen Elemente wie das wirtschaftliche und kulturelle Handeln der Menschen innerhalb eines Staates nicht herangezogen werden.
 	- Nähe zum Nationalsozialismus durch Sozialdarwinismus
 	- Grundlage für die [Geopolitik](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-geopolitik)
-### [Geopolitik](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-geopolitik)
+### Geopolitik
+[📅](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-geopolitik)
 - **Wer:**
 	- Karl Haushofer (1869 – 1946)
 	- Rudolf Kjiellén (1864 – 1922)
@@ -310,7 +338,8 @@ Diese Ziele wiesen folgende **Probleme** auf, welche im Verlauf der zweiten Häl
 		- **«Es gibt kein Volk ohne Raum» (Mathy 1866)**
 		- Erhielt mit der Gründung der Nationalstaaten vor 150 Jahren Aufschwung
 		- “Purification of space”: In einem Raum gibt es nur Platz für eine Rasse/Kultur
-### [Politische Geographie: Zweite Phase (Ab 1950)](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-politische-geographie-zweite-phase-nach-1950)
+### Politische Geographie: Zweite Phase (Ab 1950)
+[📅](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-politische-geographie-zweite-phase-nach-1950)
 **1950er-Jahre:**
 - [Geopolitik](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-geopolitik): tabuisierter Begriff
 - Rückbesinnung auf klassische geographische Tätigkeiten wie Erdbeschreibung, deskriptive [Länderkunde](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-landerkunde-regionalgeographie) leben auf
@@ -329,7 +358,8 @@ Noch immer: Abschwächung der Bedeutung der Geographie im Kolonialismus und Nati
 - Michel, Boris (2017): _“World War II was the best thing that has happened to geography_”. Der Beitrag des Zweiten Weltkrieges zu einer neuen Raum- und Kartenpraxis in der Geographie. In: Nowak, Lars (Hrsg.): Krieg-Medien-Raum. Fink, 261–290.
 - Rückgriff auf anerkannte angloamerikanische politische Geographie
 - Im Zuge des **Paradigmenpluralismus** entstehen auch in der politischen Geographie vielseitige Zugänge zu Gesellschaft-Individuum-Macht-Raum
-### [Politische Geographie: Dritte Phase (ab 1980er)](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-politische-geographie-dritte-phase-ab-1980er-jahren)
+### Politische Geographie: Dritte Phase (ab 1980er)
+[📅](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-politische-geographie-dritte-phase-ab-1980er-jahren)
 - **Wer:**
 	- David Harvey, Yves Lacoste, [Paul Reuber](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-paul-reuber)
 - **Wann:**
@@ -378,7 +408,8 @@ Noch immer: Abschwächung der Bedeutung der Geographie im Kolonialismus und Nati
 		- **Reterritorialisierung**: Grenzen im Spannungsfeld ökonomischer Transnationalisierung; Reterritorialisierung und Grenzkonflikte (Beispiel Schottland, Katalonien)
 		- **Repräsentation**: Wie wird über Grenzen gesprochen in Kultur, Medien, Schule, Geschichte, Wissenschaft und Alltag?
 		- **Praktiken**: Ex- und Inklusionspraktiken, Gefahren an Grenzen, Grenz- und Grenzregime (Beispiel: Border USA-Mexiko, Israel-Palästina, Lampedusa) → Sense of Place ([Doreen Massey](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-doreen-massey))
-### [Postkoloniale Geographie](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-postkoloniale-geographie)
+### Postkoloniale Geographie
+[📅](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-postkoloniale-geographie)
 - **Wer:**
 	- [Edward Said](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-edward-said) (1980er-Jahre)
 	- [Julia Lossau](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-julia-lossau) (2000er-Jahre)
@@ -398,7 +429,8 @@ Noch immer: Abschwächung der Bedeutung der Geographie im Kolonialismus und Nati
 	- Entangled History
 	- [Orientalismus](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-orientalismus)
 	- [**Postcolonial Turn:**](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-postcolonial-turn) Postkoloniale Ungleichheitsdimensionen werden analysiert
-### [Imaginäre / Imaginative Geographien](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-imaginare-imaginative-geographien)
+### Imaginäre / Imaginative Geographien
+[📅](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-imaginare-imaginative-geographien)
 - **Wer:**
 	- [Edward Said](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-edward-said) (1935 – 2003)
 	- [Derek Gregory](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-derek-gregory) (1951*)
@@ -415,7 +447,8 @@ Noch immer: Abschwächung der Bedeutung der Geographie im Kolonialismus und Nati
 	- → Vergleich und Legitimation durch Moral, Rationalität, Religion, Wissenschaft und Rasse
 	- [Orientalismus](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-orientalismus)
 	- [Othering](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-orientalismus): Nach [Edward Said](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-edward-said): Begriff für den konstruierten Unterschied zwischen «uns» und «den anderen»
-### [Sozialgeographie](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-sozialgeographie)
+### Sozialgeographie
+[📅](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-sozialgeographie)
 - **Wer:**
 	- [Hans Bobek](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-hans-bobek) (1947)
 	- [Benno Werlen](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-benno-werlen) (1980er)
@@ -434,7 +467,8 @@ Noch immer: Abschwächung der Bedeutung der Geographie im Kolonialismus und Nati
 	- [Geographie Machen](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-geographie-machen)
 	- Schwierig von der [Neuen Kulturgeographie](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-neue-kulturgeographie) abzugrenzen
 	- Baut auf dem [Possibilismus](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-possibilismus) von [de la Blache](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-paul-vidal-de-la-blache) auf
-### [Humanistic Geography / Wahrnehmungsgeographie](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-humanistic-geography-wahrnehmungsgeographie)
+### Humanistic Geography / Wahrnehmungsgeographie
+[📅](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-humanistic-geography-wahrnehmungsgeographie)
 - **Wer:**
 	- [Anne Buttimer (1938 – 2017)](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-anne-buttimer)
 - **Wann:**
@@ -459,7 +493,8 @@ Noch immer: Abschwächung der Bedeutung der Geographie im Kolonialismus und Nati
 	- Intersubjektivität
 	- [Konstruktivismus](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-konstruktivismus), [Kritischer Rationalismus](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-kritischer-rationalismus)
 	- Philosophische Grundlagen: Idealismus, Humanismus, Existenzialismus, Phänomenologie
-### [Neue Kulturgeographie](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-neue-kulturgeographie)
+### Neue Kulturgeographie
+[📅](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-neue-kulturgeographie)
 - **Wer:**
 	- [Linda McDowell](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-linda-mcdowell)
 - **Wann:**
@@ -476,7 +511,8 @@ Noch immer: Abschwächung der Bedeutung der Geographie im Kolonialismus und Nati
 	- In den 1960er-1980er Jahren wurde die Kulturgeographie durch neue Theorien beeinflusst.
 	- Britische [**Cultural Studies**](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-cultural-studies) (Kultur als Produkt alltäglicher Kreativität aller Menschen. Kultur ein Prozess, bei dem Sinnzuschreibungen vorgenommen werden)
 	- Französischer [**Poststrukturalismus**](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-poststrukturalismus) (Strukturalismus = alle kulturellen Praktiken auf einem System von Regeln und Zeichen basieren/ Poststrukturalismus = Annahmen des Strukturalismus, betont zudem das Regeln und Systeme kulturelle Praktiken nicht nur ermöglichen respektive verunmöglichen sondern einen wesentlichen Teil an ihrer Konstruktion haben)
-### [Feministische Geographie](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-feministische-geographie)
+### Feministische Geographie
+[📅](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-feministische-geographie)
 - **Wer:**
 	- [Linda McDowell](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-linda-mcdowell)
 	- [Doreen Massey](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-doreen-massey) (1990er-Jahre)
@@ -495,7 +531,8 @@ Noch immer: Abschwächung der Bedeutung der Geographie im Kolonialismus und Nati
 	- Physische Geographie (Vulnerabilität in Naturkatastrophen, Ernährungssicherheit, Ressourcenzugang)
 	- Postmoderne: **Auflösung des Geschlechterdualismus** → Queer Theory
 	- → Disability Studies
-### [Dynamische Länderkunde](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-dynamische-landerkunde)
+### Dynamische Länderkunde
+[📅](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-dynamische-landerkunde)
 - **Wer:**
 	- [Hans Spethmann](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-hans-spethmann) (Ende 1920er-Jahre)
 	- [Jacqueline Beaujeu-Garnier](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-jacqueline-beaujeu-garnier) (1960er- & 1970er-Jahre)
@@ -507,7 +544,8 @@ Noch immer: Abschwächung der Bedeutung der Geographie im Kolonialismus und Nati
 	- Bewegungen der Gegenwart, Entwicklungsmöglichkeiten und Zukunftsaussichten
 	- Versuch soziale Phänomene in die geographische Analyse einzubinden
 	- Erkenntnis das Erkenntnisse in einer deskriptiven [Länderkunde](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-landerkunde-regionalgeographie) nur eine kurze Gültigkeit besitzt.
-### [Raumstrukturforschung / Spatial Analysis](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-raumstrukturforschung-spatial-analysis)
+### Raumstrukturforschung / Spatial Analysis
+[📅](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-raumstrukturforschung-spatial-analysis)
 - **Wer:**
 	- Peter Hagget (1965)
 	- Dietrich Bartels (1968)
@@ -524,7 +562,8 @@ Noch immer: Abschwächung der Bedeutung der Geographie im Kolonialismus und Nati
 	- Moderner Gegenentwurf zur [Regionalen Geographie](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-landerkunde-regionalgeographie)
 	- Paradigmenwechsel von einer beschreibenden und verordnenden Geographie zur erklärenden Raumanalyse
 	- Beispiel: Verkehrsplanung, Prognosemodelle → Bedürfnisse der Menschen wird zu wenig Beachtung geschenkt → [Humanistic Geography](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-humanistic-geography-wahrnehmungsgeographie)
-### [Neue Regionalgeographie / Locality Studies](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-neue-regionalgeographie-locality-studies)
+### Neue Regionalgeographie / Locality Studies
+[📅](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-neue-regionalgeographie-locality-studies)
 - **Wer:**
 	- [Doreen Massey](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-doreen-massey)
 	- [Derek Gregory](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-derek-gregory)
@@ -541,7 +580,8 @@ Noch immer: Abschwächung der Bedeutung der Geographie im Kolonialismus und Nati
 	- Sie erweitern das Forschungsfeld der Siedlungsgeographie und der [Regionalgeographie](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-landerkunde-regionalgeographie) um neue Themen wie Arbeitsmärkte, Stadtentwicklung, Migration, Landschaftsästhetik oder auch Regionale Identitäten.
 ## Konzepte
 
-### [Kausalforschung](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-kausalforschung)
+### Kausalforschung
+[📅](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-kausalforschung)
 - **Wer:**
 	- [Alfred Hettner](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-alfred-hettner)
 	- [Ferdinand von Richthofen](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-ferdinand-von-richthofen)
@@ -556,7 +596,8 @@ Noch immer: Abschwächung der Bedeutung der Geographie im Kolonialismus und Nati
 	- Aussagen sind in der physischen Geographie weniger Risikobehaftet
 [→ Länderkunde / Regionalgeographie](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-landerkunde-regionalgeographie)
 [→ Dynamische Länderkunde](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-dynamische-landerkunde-raumstrukturforschung-spatial-analysis)
-### [Possibilismus (Ende 19. – Anfang 20. Jhd.)](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-possibilismus)
+### Possibilismus (Ende 19. – Anfang 20. Jhd.)
+[📅](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-possibilismus)
 - **Wer:**
 	- [Paul Vida de la Blache](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-paul-vidal-de-la-blache)
 - **Wann:**
@@ -571,7 +612,8 @@ Noch immer: Abschwächung der Bedeutung der Geographie im Kolonialismus und Nati
 	- Gegenentwurf zu Geodeterminismus: Menschen wählen, wie sie die Natur nutzen, sind der Natur nicht deterministisch unterlegen
 	- Basis für die Arbeiten [Friedrich Ratzels](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-friedrich-ratzel) → (Anthropogeographie (= frühe Humangeographie)) & [Politische Geographie](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-politische-geographie-erste-phase-vor-dem-1-weltkrieg)
 	- Vorreiter der modernen [Sozialgeographie](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-sozialgeographie)
-### [Geographie-Machen](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-geographie-machen)
+### Geographie-Machen
+[📅](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-geographie-machen)
 - **Wer:**
 	- [Benno Werlen](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-benno-werlen)
 - **Wann:**
@@ -581,7 +623,8 @@ Noch immer: Abschwächung der Bedeutung der Geographie im Kolonialismus und Nati
 	- Entscheidungen beim Einkaufen, Wahl des Verkehrsmittels, etc.
 	- Neues Paradigma: Handlungszentrierte Humangeographie → Handlungstheorie
 	- Nach [Werlen](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-benno-werlen) soll Humangeographie untersuchen, **wie menschliche Handlungen den Raum gestalten** (Und nicht mehr, wie der Raum menschliche Tätigkeiten bestimmt).
-### [Orientalismus](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-orientalismus)
+### Orientalismus
+[📅](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-orientalismus)
 - **Wer:**
 	- [Edward Said](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-edward-said)
 - **Wann:**
@@ -599,7 +642,8 @@ Noch immer: Abschwächung der Bedeutung der Geographie im Kolonialismus und Nati
 		- Gruppenidentitäten beruhen auf Homogenisierungsstrategien
 		- Abgrenzungsprozesse gehen mit einer Abwertung des “Anderen” einher
 	- Verwandt: [Imaginative Geographien](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-imaginare-imaginative-geographien)
-### [Cultural Studies](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-cultural-studies)
+### Cultural Studies
+[📅](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-cultural-studies)
 - **Wer:**
 	- Stuart Hall (1932 – 2014)
 	- Richard Hoggart (1918 – 2014)
@@ -619,7 +663,8 @@ Noch immer: Abschwächung der Bedeutung der Geographie im Kolonialismus und Nati
 	- Das neue an den Cultural Studies ist:
 		- Sie denken Kultur als Produkt alltäglicher Kreativität aller Menschen, die täglich erschaffen wird.
 		- Sie fordern eine Konzentration auf das alltägliche Erleben und Erfahren eines Individuums, einer Gruppe, Klasse oder Gesellschaft innerhalb der Gesellschafts(raum)analyse.
-### [Feministische Theorie](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-feministische-theorie)
+### Feministische Theorie
+[📅](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-feministische-theorie)
 - **Wer:**
 	- [Judith Butler](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-judith-butler) (_Gender Troubles_, 1990)
 - **Wann:**
@@ -635,7 +680,8 @@ Noch immer: Abschwächung der Bedeutung der Geographie im Kolonialismus und Nati
 		- Gesellschaftliche Unterschiede basieren auf patriarchalen Strukturen
 		- Jede Person soll sich unabhängig vom Geschlecht entwickeln können
 ## Wandel
-### [Cultural Turn](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-cultural-turn)
+### Cultural Turn
+[📅](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-cultural-turn)
 - **Wann:**
 	- Ab den 1960er-Jahren
 - **Was:**
@@ -646,7 +692,8 @@ Noch immer: Abschwächung der Bedeutung der Geographie im Kolonialismus und Nati
 	- Nicht mehr Fragen wie «Was ist wo und wie zu beschreiben?», sondern Fragen wie «Wie wird etwas als etwas hergestellt?»
 	- **Kultur ist nicht an Raum gebunden, Gesellschaft und Raum sind dynamisch und veränderbar.**
 
-### [Linguistic Turn](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-linguisitc-turn)
+### Linguistic Turn
+[📅](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-linguisitc-turn)
 - **Wer:**
 	- [Ferdinand de Saussure](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-ferdinand-de-saussures)
 - **Wann:**
@@ -660,7 +707,8 @@ Noch immer: Abschwächung der Bedeutung der Geographie im Kolonialismus und Nati
 		- Sprache wird nicht benutzt, um Wirklichkeit zu beschreiben. Sprache ist ein Instrument zur Herstellung von Wirklichkeit – **Sprache** [**konstruiert**](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-konstruktivismus) **Wirklichkeit.**
 		- Es gibt keine Tatsachen ausserhalb der Sprache. – Sprache konstruiert Wirklichkeit.
 [→ Cultural Turn](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-cultural-turn)
-### [Performative Turn](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-performative-turn)
+### Performative Turn
+[📅](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-performative-turn)
 - **Wann:**
 	- 1990er
 - **Was:**
@@ -670,7 +718,8 @@ Noch immer: Abschwächung der Bedeutung der Geographie im Kolonialismus und Nati
 	- Frage: **Wie wird Raum durch Bilder und Körperlichkeit inszeniert?**
 	- Clown der/die eine politische Rede hält vermittelt nicht dasselbe wie ein*e Anzugträger*in der die gleiche Rede hält
 [→ Cultural Turn](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-cultural-turn)
-### [Postcolonial Turn](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-postcolonial-turn)
+### Postcolonial Turn
+[📅](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-postcolonial-turn)
 - **Wer:**
 	- [Edward Said](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-edward-said)
 	- Gayatri Spivak (1942*)
@@ -683,7 +732,8 @@ Noch immer: Abschwächung der Bedeutung der Geographie im Kolonialismus und Nati
 	- Selbstreflexion des westlichen Blickes in Bezug zu Untersuchungsgegenstände
 	- [Orientalismus](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-orientalismus), othering, worlding, Reflexion Eurozentrismus etc.
 [→ Cultural Turn](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-cultural-turn)
-### [Spatial Turn](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-spatial-turn)
+### Spatial Turn
+[📅](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-spatial-turn)
 - **Wann:**
 	- 1980er-Jahre
 - **Was:**
@@ -695,7 +745,8 @@ Noch immer: Abschwächung der Bedeutung der Geographie im Kolonialismus und Nati
 	- Kultur ist nicht mehr Raumgebunden, keine fixe Bedeutungszuschreibung von Raum mehr.
 	- Kultur ist überall dort wo sie gelebt wird. (Bspw. im Internet)
 [→ Cultural Turn](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-cultural-turn)
-### [Gender Turn](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-gender-turn)
+### Gender Turn
+[📅](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-gender-turn)
 - **Wer:**
 	- [Judith Butler](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-judith-butler) (_Gender Troubles_, 1990)
 - **Wann:**
@@ -709,7 +760,8 @@ Noch immer: Abschwächung der Bedeutung der Geographie im Kolonialismus und Nati
 	- Intersektionalität
 [→ Feministische Geographie](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-feministische-geographie)
 [→ Cultural Turn](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-cultural-turn)
-### [Material Turn](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-material-turn)
+### Material Turn
+[📅](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-material-turn)
 - **Wer:**
 	- [Nigel Thrift](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-nigel-thrift)
 - **Wann:**
@@ -720,7 +772,8 @@ Noch immer: Abschwächung der Bedeutung der Geographie im Kolonialismus und Nati
 	- Auflösung des Geschlechterdualismus gebremst durch dualistisch klassifizierte WC-Anlagen
 	- Posthumanismus
 	- Zeigt bspw. Ausschlussverfahren durch Materialität auf
-### [Spaltung der Geografie / Kieler Geographentag (1969)](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-spaltung-der-geografie-kieler-geographentag)
+### Spaltung der Geografie / Kieler Geographentag (1969)
+[📅](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-spaltung-der-geografie-kieler-geographentag)
 - **Wer:**
 	- Viele junge Geograph*innen
 - **Wann:**
@@ -738,7 +791,8 @@ Noch immer: Abschwächung der Bedeutung der Geographie im Kolonialismus und Nati
 		- Humangeografie
 			- Subjekt/Akteur im Zentrum
 			- Ziel: Interpretation der sozialen Welt
-### [Quantitative Revolution](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-quantitative-revolution)
+### Quantitative Revolution
+[📅](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-quantitative-revolution)
 - **Wann:**
 	- Ab den 1950er-Jahren
 - **Wo:**
@@ -758,54 +812,68 @@ Noch immer: Abschwächung der Bedeutung der Geographie im Kolonialismus und Nati
 		- Problem der Distanzfunktion (nah-fern)
 ## Erkenntnistheorien
 
-### [Realismus](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-realismus) (20. Jhd.)
+### Realismus (20. Jhd.)
+[📅](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-realismus) 
 
 Realismus und dessen Vorstellung, dass die **Realität unabhängig von den Menschen**, ihren Wahrnehmungen und kulturellen Denkmustern existiert und **objektiv erkannt werden kann**. Das bedeutet, die Realität kann in Form von Theorien ausgedrückt werden, empirische Daten sind Tatsachen, **Forschende sind objektiv**. In diesem Sinne ist es das Ziel der Wissenschaft, die Tatsachen der Welt objektiv zu beschreiben und zu erklären.
-### [Rationalismus](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-rationalismus) (Anfang 17. Jhd.)
+
+### Rationalismus (Anfang 17. Jhd.)
+[📅](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-rationalismus) 
 
 Rationalismus und dessen Position, die **nur die Benutzung des Verstandes** bzw. der Vernunft **als** ein **legitimes und verlässliches** menschliches **Mittel** anerkennt, um Erkenntnis zu gewinnen. Bis in die Antike lässt sich diese Position zurückverfolgen und wird von Parmenides und Platon vertreten. Für die Neuzeit sind Philosophen wie René Descartes (1596–1650), Baruch de Spinoza (1632–1677) sowie Gottfried Wilhelm Leibniz (1646–1716) zu nennen. Um das rationale Erkenntnisverfahren nachvollziehen zu können, hilft der Gottesbeweis von René Descartes.
-### [Idealismus](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-idealismus) (Anfang 17. Jhd.)
+### Idealismus (Anfang 17. Jhd.)
+[📅](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-idealismus) 
 
 Der Idealismus geht davon aus, dass die **Wirklichkeit durch Erkenntnis und Denken** bestimmt wird. Das heißt, die Welt besteht aus **Ideen, die der Wirklichkeit Sinn verleihen**. Der Idealismus ist damit eine Gegenposition des [Realismus](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-realismus) oder Naturalismus.
-### [Empirismus](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-empirismus) (Mitte 17. Jhd.)
+### Empirismus (Mitte 17. Jhd.)
+[📅](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-empirismus)
 
 Empirismus und dessen Position, dass **alleinig die menschliche Erfahrung als Erkenntnisverfahren legitim ist.** Empirisch forschen heißt, Erkenntnisse immer auf sinnliche Erfahrungen zurückzuführen. **Was nicht sinnlich erfahrbar ist, ist nicht relevant.** So formuliert **Thomas Hobbes** (1588–1679) in seinem Werk Leviathan (**1651**) die These, dass Menschen nichts denken können, was sie nicht auch sinnlich erfahren können. John Locke (1632–1704) vertrat in An Essay Concerning Human Understanding (1690) die These, dass der menschliche Geist eine Tabula rasa sei, in die alle Vorstellungen durch Erfahrungen eingeschrieben werden; somit also kein Wissen a priori bestehe.
-### [Transzendentalphilosophie](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-transzendentalphilosophie) (Ende 18. Jhd.)
+### Transzendentalphilosophie (Ende 18. Jhd.)
+[📅](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-transzendentalphilosophie)
 
 **Immanuel Kant** (1724–1804) verbindet in Kritik der reinen Vernunft (1781) rationale und empirische Positionen. Er unterscheidet Erkenntnisse a priori (von vorneherein gegeben wie Raum, Zeit und Kausalität) und a posteriori (aus Erfahrung gewonnen wie Werte, Regeln, Systeme). Dieser Kompromiss wird 150 Jahre später die Vorstellungen von Raum in der Geographie beeinflussen.
-### [Kritischer Rationalismus](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-kritischer-rationalismus) (1930er Jahre)
+### Kritischer Rationalismus (1930er Jahre)
+[📅](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-kritischer-rationalismus)
 
 Der Philosoph **Karl Popper** (1934) suchte einen Ausweg aus dogmatischen Theorie und Methodenprogrammen des [Realismus](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-realismus), [Rationalismus](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-rationalismus), [Empirismus](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-empirismus) oder [Positivismus](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-positivismus). Popper ging davon aus, dass **Forschende irren können, dass Wahrheit von der Perspektive** **abhängt, dass Menschen Werturteile abgeben und dass es nie endgültige Gewissheit geben kann.** Forschende sollten daher kritischer mit ihren Ergebnissen umgehen, denn wissenschaftliche Erkenntnisse **können niemals als wahr**, sondern **maximal** so lange **als gültig** bezeichnet werden, bis jemand ihr Gegenteil beweist. Poppers Forderung: Wissenschaft dient nicht dazu, Dinge, die schon bekannt sind, immer wieder zu bestätigen wie Vertreter des Logischen [Empirismus](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-empirismus) und [Positivismus](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-positivismus) im Rahmen des Wiener Kreises dies tun (verifizieren). Ganz im Gegenteil sollen Forschende versuchen, **Bekanntes sowie Neuentdecktes zu wiederlegen (falsifizieren).**
 - Wichtigstes Paradigma in der physischen Geographie seit der [quantitativen Revolution](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-quantitative-revolution)
-### [Positivismus](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-positivismus) (Ende 19. Jhd.)
+### Positivismus (Ende 19. Jhd.)
+[📅](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-positivismus)
 
 Im Zuge der Aufklärung aufgekommen. **Nur das ist richtig was mittels Logik und Mathematik belegt werden kann.** Weiderauflebung während der qauntitativen Revolution. Bestehendes immer wieder **verifizieren** (Im Gegenteil zum [kritischen Rationalismus](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-kritischer-rationalismus)) → Ideologische Vorstellungen werden nicht aufgelöst
-### [Handlungstheorie](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-handlungstheorie)n (1980er)
+### Handlungstheorien (1980er)
+[📅](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-handlungstheorie)
 
 **Überbegriff für** [**Konstruktivismus**](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-konstruktivismus)**,** [**Strukturalismus**](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-strukturalismus) **und** [**Poststrukturalismus**](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-poststrukturalismus)
 Ist eine erkenntnistheoretische Position, die **die gesellschaftliche Wirklichkeit als Folge von sozialen Handlungen rekonstruiert.** Nach Max Weber (1984:19) ist soziales Handeln ein Tun oder Nicht-Tun, das erstens auf andere Menschen bezogen (soziales Handeln) und zweitens mit einem Ziel verbunden ist (intentionales Handeln). Menschen können aus Routinen heraus handeln, orientiert an Glaubenssystemen, durch Abwägen von Mittel und Nutzen oder auch basierend auf Emotionen. **Handlungen können bewusste oder unbewusste Folgen haben.**
-### [Strukturalismus](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-strukturalismus) (Anfang 20. Jhd., Hochphase 1960er-Jahre)
+### Strukturalismus (Anfang 20. Jhd., Hochphase 1960er-Jahre)
+[📅](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-strukturalismus)
 → [Handlungstheorie](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-handlungstheorie)
 Der Strukturalismus ist eine Erkenntnistheorie, die davon ausgeht, dass **alle kulturellen Praktiken auf einem System von Regeln und Zeichen basieren** Ausgehend vom Regel- und Zeichensystem der Sprache ([Ferdinand de Saussures](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-ferdinand-de-saussures) Signifikat = Bezeichnetes, Zeicheninhalt und Signifikant = Bezeichnung) übertragen Forschende die Idee eines strukturierten Symbolsystems auf die Psychologie (Jacques Lacan), Ethnologie (Claude Lévi-Strauss), Mode (Roland Barthes), Geschichte (Louis Althusser). Beispiel Sprechen: Um verstanden zu werden, muss während des Sprechens auf Begriffe und Regeln zurückgegriffen werden, die den Personen, mit denen gesprochen wird, bekannt sind (Mittelstraß 2005).
 [→ Ferdinand de Saussures](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-ferdinand-de-saussures)
 [→ Linguistic Turn](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-linguisitc-turn)
-### [Poststrukturalismus](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-poststrukturalismus) (Ende 1960er-Jahre)
+### Poststrukturalismus (Ende 1960er-Jahre)
+[📅](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-poststrukturalismus)
 → [Handlungstheorie](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-handlungstheorie)
 Der Poststrukturalismus basiert auf den Annahmen des [Strukturalismus](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-strukturalismus), betont aber zudem, dass **Regeln und Systeme kulturelle Praktiken nicht nur ermöglichen respektive verunmöglichen, sondern einen wesentlichen Anteil an ihrer Konstruktion haben.** Beispiel Sprache: Wenn wir über Terrorismus sprechen, vermitteln wir nicht nur bestimmte Informationen über die Welt. Im Sprechen wird der **Begriff** Terrorismus **mit Bedeutung aufgeladen**, **indem er mit bestimmten Akteuren, bestimmten Handlungen, bestimmten Erklärungen verbunden wird.** Hierin zeigt sich die **Macht der Sprache**, Phänomene der Welt spezifisch erscheinen zu lassen (Mittelstraß 2005).
 [→ Linguistic Turn](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-linguisitc-turn)
-### [Konstruktivismus](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-konstruktivismus) (1960er)
+### Konstruktivismus (1960er-Jahre)
+[📅](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-konstruktivismus)
 → [Handlungstheorie](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-handlungstheorie)
 **Peter L. Berger** und **Thomas Luckmann**
 Ist eine Erkenntnistheorie, die mit dem Werk von Peter L. Berger und Thomas Luckmann die **gesellschaftliche Konstruktion der Wirklichkeit** (1969 [1966]) verbunden ist. Sozial-konstruktivistische Ansätze gehen davon aus, dass **Menschen die soziale (und räumliche) Welt durch historische, politische, wirtschaftliche und gesellschaftliche Aushandlungs-prozesse erzeugen.** Eine Konsequenz dieses Denkens kann am Beispiel der Bewertung von Naturprozessen nachvollzogen werden. 
-### [Systemtheorie](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-systemtheorie) (Mitte 20. Jhd.)
+### Systemtheorie (Mitte 20. Jhd.)
+[📅](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-systemtheorie)
 **Ludwig von Bertalanffy** (1901 – 1972)
 Systemtheoretische Ansätze machen Aussagen darüber, **wie und in welcher Weise einzelne Teile der Realität in Verbindung stehen und aufeinander einwirken**. Sie ermöglichen einen analytischen Zugang zu komplexen Zusammenhängen, indem sie ein Ganzes in dessen Einzelelemente bzw. ein System in Subsysteme unterteilen.
 ## Paradigmenwechsel
 
-### [Von Beschreiben zu Erklären (Säkularisierung)](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-von-beschreiben-zu-erklaren)
+### Von Beschreiben zu Erklären (Säkularisierung)
+[📅](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-von-beschreiben-zu-erklaren)
 - **Wer vorher:**
-	- [Carl Ritter](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-carl-ritter)
-	- [Alexander von Humboldt](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-alexander-von-humboldt)
+	- [Carl Ritter](#carl-ritter)
+	- [Alexander von Humboldt](#alexander-von-humboldt)
 - **Wer nachher:**
 	- [Alfred Hettner](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-alfred-hettner)
 	- [Ferdinand von Richthofen](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-ferdinand-von-richthofen)
@@ -827,7 +895,8 @@ Systemtheoretische Ansätze machen Aussagen darüber, **wie und in welcher Weise
 	- Institutionalisierung der Geographie → Stärkung der Geographie als Wissenschaft an Universitäten
 	- Geodeterminismus
 	- Natur als Ressource muss erschlossen werden um für den Menschen nutzbar zu werden
-### [Von Erklären zu Verstehen](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-von-erklaren-zu-verstehen)
+### Von Erklären zu Verstehen
+[📅](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-von-erklaren-zu-verstehen)
 - **Wer vorher:**
 	- [Alfred Hettner](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-alfred-hettner)
 	- [Ferdinand von Richthofen](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-ferdinand-von-richthofen)
@@ -856,7 +925,8 @@ Systemtheoretische Ansätze machen Aussagen darüber, **wie und in welcher Weise
 	- Konzept der Intersubjektivität gewinnt an Bedeutung
 	- Erkenntnisse zur subjektiven Wahrnehmung empirischer Phänomene führt zu Kritik an der alleinigen quantitativen Ausrichtung der Geographie im Zuge der [Quantitativen Revolution](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-quantitative-revolution). → [Humanistic Geography](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-humanistic-geography-wahrnehmungsgeographie)
 	- Erkenntnisse zur subjektiven Wahrnehmung empirischer Phänomene führt zu der Wiederbelebung der Kritik an der [Länder- und Landschaftskunde.](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-landerkunde-regionalgeographie)
-### [Von Verstehen zu Rekonstruieren](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-von-verstehen-zu-rekonstruieren)
+### Von Verstehen zu Rekonstruieren
+[📅](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ff0Rf1iWkiMOPr0-HhFfDhnTrWmRKe93FlHzkU5OTPQ&font=Default&lang=de&hash_bookmark=true&initial_zoom=2&height=1000#event-von-verstehen-zu-rekonstruieren)
 - **Wann:**
 	- Beginn 1970er-Jahre (Orientalismus)
 - **Von:**
